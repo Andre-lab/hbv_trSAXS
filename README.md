@@ -5,6 +5,9 @@ Data sets and models accompanying publication Assembly of Capsids from Hepatitis
 ## HBVCP_empty_assembly 
 The folder contains data collected for the assembly without RNA. bayesian_models contains inferred models using adapted BIOCE method (https://doi.org/10.1371/journal.pcbi.1006641)
 
+### Bayesian models
+Models inferred using bioce method (https://andre-lab.github.io/bioce/) adapted to work with time-resolved data. 
+
 ## HBVCP_RNA_assembly
 The folder contains data collected for the assembly with RNA. No structural models are avaialable for this data set.
 
